@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first file that is gonna fuck  again fuck again again fuck
+=======
+first file that is gonna fuck 
+>>>>>>> parent of df4efee (commiting all the 3 files)
